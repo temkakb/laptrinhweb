@@ -1,0 +1,19 @@
+:root {
+    --color-text : pink;
+
+}
+h1 {
+    color: var(--color-text);
+    margin: 0px;
+    text-align: center;
+ 
+}
+#menu {
+    width: 100vw;
+    height: 80px;
+    background-color: blueviolet;
+   
+}
+body {
+    margin: 0px;
+}
